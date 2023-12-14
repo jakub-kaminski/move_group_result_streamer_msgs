@@ -4,8 +4,8 @@
   <version>0.0.0</version>
   <description>Message definitions for the move_group_result_streamer package</description>
 
-  <maintainer email="jkaminski@tormach.com">Jakub Kaminski</maintainer>
-  <license>Tormach Internal License</license>
+  <maintainer email="jkaminski@todo.com">Jakub Kaminski</maintainer>
+  <license>MIT</license>
 
   <url type="website">TODO</url>
 
